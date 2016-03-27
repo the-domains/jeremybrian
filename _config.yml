@@ -1,0 +1,28 @@
+name: JeremyBrian
+favicon: null
+layout_spectrum: 0.00008196965791285038
+typography_spectrum: 0.5467445468530059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6802257567178458
+  lightness: 0.5451024915091693
+  saturation: 0.1548294525127858
+  rhythmicContrast: 0.4765697412658483
+purpose: []
